@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parked</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyB6ExCd066M4SoiYnMZCfFSCO-J6z8gChE
+    </string>
+
+</resources>
